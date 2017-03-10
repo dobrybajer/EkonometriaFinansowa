@@ -1,5 +1,5 @@
-anomalie <- read.csv(file="../Data/Lab1/Anomalie.csv", header=TRUE, sep=";", stringsAsFactors = FALSE)
-czynniki <- read.csv(file="../Data/Lab1/Czynniki.csv", header=TRUE, sep=";", stringsAsFactors = FALSE)
+anomalie <- read.csv(file="Data/Lab1/Anomalie.csv", header=TRUE, sep=";", stringsAsFactors = FALSE)
+czynniki <- read.csv(file="Data/Lab1/Czynniki.csv", header=TRUE, sep=";", stringsAsFactors = FALSE)
 
 # CAPM --------------------------------------------------------------------
 
